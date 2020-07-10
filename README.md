@@ -1,2 +1,2 @@
-# js-lesson-1
+# lesson-12-js
 https://annluschik.github.io/js-lesson-1/
